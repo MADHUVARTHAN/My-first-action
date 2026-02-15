@@ -8,7 +8,7 @@ inputs:
 runs:
   using: 'node20'
   main: 'index.js'
-  branding:
-  icon: 'bar-chart'
-  color: 'yellow'
+branding:
+  icon: "book-open"
+  color: "green"
 
