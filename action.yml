@@ -1,4 +1,4 @@
-name: 'Hello World'
+name: 'Board-Exam-Buddy-2026'
 description: 'Greet someone and say good luck for Boards'
 inputs:
   who-to-greet:
